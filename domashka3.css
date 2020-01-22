@@ -1,0 +1,310 @@
+.fixed_content {
+  width: 1219px;
+  padding-left: 55px;
+  padding-right: 55px;
+  background: #ffffff;
+  margin: o auto;
+}
+.rectangle {
+  position: fixed;
+  top: 0px;
+  background: #007765;
+  margin: 0 auto;
+  padding: 0 auto;
+}
+
+.header {
+  position: fixed;
+  top: 0px;
+  margin: 0 auto;
+  padding: 0 auto;
+}
+
+.before {
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
+
+.logo {
+  display: inline-block;
+  vertical-align: middle;
+  padding-left: 55px;
+  padding-top: 20px;
+  padding-bottom: 19.04px;
+}
+
+.the_problem {
+  display: inline-block;
+  vertical-align: middle;
+  padding-left: 502px;
+  padding-top: 28px;
+  padding-bottom: 27px;
+
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.palochka1 {
+  display: inline-block;
+  vertical-align: middle;
+  padding-left: 8px;
+  padding-top: 28px;
+  padding-bottom: 27px;
+
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.piedpipercoin {
+  display: inline-block;
+  vertical-align: middle;
+  padding-left: 8px;
+  padding-top: 29px;
+  padding-bottom: 26px;
+
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.palochka2 {
+  display: inline-block;
+  vertical-align: middle;
+  padding-left: 8px;
+  padding-top: 28px;
+  padding-bottom: 27px;
+
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.the_team {
+  display: inline-block;
+  vertical-align: middle;
+  padding-left: 8px;
+  padding-right: 40px;
+  padding-top: 29px;
+  padding-bottom: 26px;
+
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.jumbotron {
+  margin-top: 84px;
+  background: url("image-8.png");
+  background-size: cover;
+}
+
+.message1 {
+    padding-top: 160px;
+    padding-bottom: 160px;
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 72px;
+  line-height: 84px;
+  text-align: center;
+
+  color: #ffffff;
+}
+.problem {
+  margin-top: 0;
+  background: #EEEEEE;
+  padding-top: 1px;
+}
+.problem  h1 {
+  padding-top: 10px;
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 75px;
+  text-align: center;
+  
+  color: #007765;
+  
+}
+
+.problem  p {
+  margin-top: -25px;
+  padding-bottom: 92px;
+  padding-left: 55px;
+  padding-right: 54px;
+  font-family: Roboto, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 37px;
+
+color: #000000;
+}
+
+.hero {
+  background: url('image-9.png');
+  background-size: cover;
+  margin-top: -30px;
+  padding-top: 1px;
+}
+.message2{
+  padding-top: 128px;
+  padding-bottom: 127px;
+  padding-left: 163px;
+  padding-right: 163px;
+  font-family: Roboto, sans-serif;
+font-style: italic;
+font-weight: 500;
+font-size: 48px;
+line-height: 56px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.ppc {
+
+  background: #FFFFFF;
+  margin-top: 0;
+}
+
+.ippc {
+  padding-left: 55px;
+  padding-right: 54px; 
+  font-family: Roboto, sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 75px;
+text-align: center;
+
+color: #007765;
+}
+
+.logo2 {
+  float: left;
+  padding-left: 55px;
+}
+.p1 {
+  padding-left: 218px;
+  font-family: Roboto, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 37px;
+color: #000000;
+
+}
+
+.none {
+  clear: both;
+}
+
+.p2 {
+  padding-left: 55px;
+  padding-right: 54px;
+  padding-bottom: 46px;
+  font-family: Roboto, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 37px;
+
+color: #000000;
+
+}
+
+.team2 {
+  background: #EEEEEE;
+  margin-top: 5px;
+  padding-bottom: 90px;
+
+}
+
+.head2 {
+  padding-top: 12px;
+  padding-left: 55px;
+  padding-right: 54px;
+  font-family: Roboto, sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 75px;
+text-align: center;
+
+color: #007765;
+}
+
+.before {
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
+
+.t1 {
+  display: inline-block;
+  vertical-align: middle;
+  padding-left: 105px;
+}
+
+.t2 {
+  display: inline-block;
+  vertical-align: middle;
+  padding-left: 101px;
+}
+
+.t3 {
+  display: inline-block;
+  vertical-align: middle;
+  padding-left: 101px;
+}
+
+.posl {
+  margin: 0 auto;
+  background: #333333;
+  
+}
+
+.message3 {
+  padding-top: 48px;
+  padding-bottom: 64px;
+  padding-left: 340px;
+  padding-right: 339px;
+  font-family: Roboto, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;
+}
